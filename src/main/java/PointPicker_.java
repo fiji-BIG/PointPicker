@@ -19,17 +19,18 @@
 | Additional help available at http://bigwww.epfl.ch/thevenaz/pointpicker/
 \===================================================================*/
 
+import ij.IJ;
+import ij.ImagePlus;
+import ij.WindowManager;
 import ij.gui.GUI;
 import ij.gui.ImageCanvas;
 import ij.gui.ImageWindow;
 import ij.gui.Roi;
 import ij.gui.StackWindow;
 import ij.gui.Toolbar;
-import ij.IJ;
-import ij.ImagePlus;
 import ij.measure.Calibration;
 import ij.plugin.PlugIn;
-import ij.WindowManager;
+
 import java.awt.Button;
 import java.awt.Canvas;
 import java.awt.CheckboxGroup;
