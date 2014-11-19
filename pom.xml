@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
-		http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0   http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
@@ -13,10 +10,10 @@
 	</parent>
 
 	<artifactId>PointPicker_</artifactId>
-	<version>2.0.0-SNAPSHOT</version>
+	<version>2.0.0</version>
 
 	<name>plugins/PointPicker_.jar</name>
-	<description></description>
+	<description />
 	<url>http://fiji.sc/PointPicker</url>
 	<inceptionYear>2010</inceptionYear>
 
@@ -45,7 +42,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/fiji/PointPicker</connection>
 		<developerConnection>scm:git:git@github.com:fiji/PointPicker</developerConnection>
-		<tag>HEAD</tag>
+		<tag>PointPicker_-2.0.0</tag>
 		<url>https://github.com/fiji/PointPicker</url>
 	</scm>
 	<ciManagement>
