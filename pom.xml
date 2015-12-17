@@ -45,6 +45,10 @@
 		<tag>HEAD</tag>
 		<url>https://github.com/fiji/PointPicker</url>
 	</scm>
+	<issueManagement>
+		<system>GitHub Issues</system>
+		<url>https://github.com/fiji/PointPicker/issues</url>
+	</issueManagement>
 	<ciManagement>
 		<system>Jenkins</system>
 		<url>http://jenkins.imagej.net/job/PointPicker/</url>
